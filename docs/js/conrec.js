@@ -496,5 +496,5 @@ var Conrec = (function () {
     };
     return Conrec;
 }());
-exports.Conrec = Conrec;
+// exports.Conrec = Conrec;
 //# sourceMappingURL=conrec.js.map
